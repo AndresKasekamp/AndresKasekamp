@@ -4,7 +4,7 @@
 
 Working with LiDAR, satellite imagery, and 3D modeling.
 
-Skills: Python / JS
+Skills: Python / JS / R / SQL
 
 - 🔭 I’m currently working on Cadastre units and satellite imagery 
 - 🌱 I’m currently learning JS 
