@@ -4,4 +4,5 @@
 - 📫 How to reach me: Andres.Kasekamp@maaamet.ee.
 - ⚡ Fun fact: MSc in geoinformatics and cartography
 
-https://xgis.maaamet.ee/xgis2/page/link/w2KcXV6J
+<iframe height="500" width="1000" src="https://xgis.maaamet.ee/xgis2/page/link/JBOWL767?plugin=true"></iframe>
+
