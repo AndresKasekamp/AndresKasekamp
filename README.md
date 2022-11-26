@@ -3,7 +3,7 @@
 
 Working with remote sensing (LiDAR and satellite imagery) and 3D modeling.
 
-Skills: Python / R / SQL / JS
+Skills: Python / R / SQL / JS / Go
 
 - 🔭 I’m currently working on NDVI in satellite imagery 
 - 👯 I’m looking to collaborate on 3D city models 
