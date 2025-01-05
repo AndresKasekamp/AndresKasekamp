@@ -2,7 +2,7 @@
 
 GIS developer with Estonian Land and Spatial Development Board. \
 Mainly working with remote sensing (LiDAR and satellite imagery) and 3D modeling. 📡🌐🔦 \
-And also everything else concerning GIS. 😎
+And everything else concerning GIS. 😎
 
 Skills: Python / R / SQL / JS / Go / React / Next.js / Ruby on Rails / Laravel / Docker / Terraform
 
