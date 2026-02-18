@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-GIS developer formerly with Estonian Land and Spatial Development Board. \
+GIS developer formerly with Estonian Land and Spatial Development Board
 
 Skills: Python / R / SQL / JS / Go / React / Next.js / Ruby on Rails / Laravel / Docker / Terraform
 
